@@ -184,6 +184,7 @@ pre {
   margin-bottom: 0;
   color: rgb(238, 234, 234);
   line-height: 1.5;
+  text-shadow: 1px 1px black;
 }
 
 #join {
