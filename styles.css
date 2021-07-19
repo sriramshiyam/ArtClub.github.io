@@ -70,8 +70,7 @@ pre {
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
-  transform: translate3d(0,0,0);
-  -webkit-transform: translate3d(0,0,0);
+  position: static;
 }
 
 .img-tex1 {
@@ -88,8 +87,7 @@ pre {
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
-  transform: translate3d(0,0,0);
-  -webkit-transform: translate3d(0,0,0);
+  position: static;
 }
 
 .img-tex2 {
@@ -105,8 +103,7 @@ pre {
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
-  transform: translate3d(0,0,0);
-  -webkit-transform: translate3d(0,0,0);
+  position: static;
 }
 
 .img-tex3 {
