@@ -69,8 +69,6 @@ pre {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-attachment: fixed;
-  -webkit-transform: translateZ(0x);
 }
 
 .img-tex1 {
@@ -86,8 +84,6 @@ pre {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-attachment: fixed;
-  -webkit-transform: translateZ(0x);
 }
 
 .img-tex2 {
@@ -102,8 +98,6 @@ pre {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-attachment: fixed;
-  -webkit-transform: translateZ(0x);
 }
 
 .img-tex3 {
